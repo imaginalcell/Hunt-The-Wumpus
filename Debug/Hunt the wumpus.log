@@ -1,0 +1,13 @@
+﻿Build started 10/21/2015 9:51:35 AM.
+     1>Project "C:\Users\triston.vaskey\Documents\Visual Studio 2015\Projects\Hunt the wumpus\Hunt the wumpus\Hunt the wumpus.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt GameState.cpp main.cpp
+         main.cpp
+         GameState.cpp
+         Generating Code...
+     1>c:\users\triston.vaskey\documents\visual studio 2015\projects\hunt the wumpus\hunt the wumpus\gamestate.cpp(26): error C4716: 'GameState::update': must return a value
+     1>Done Building Project "C:\Users\triston.vaskey\Documents\Visual Studio 2015\Projects\Hunt the wumpus\Hunt the wumpus\Hunt the wumpus.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.85
